@@ -284,6 +284,8 @@
       "p=polyfit(bball.Payroll,bball.WinPct,1)\n",
       "plt.plot(bball.Payroll, polyval(p,bball.Payroll),'g-')\n",
       "plt.show()"
+      "plt.show2()"
+       "plt.show3()"
      ],
      "language": "python",
      "metadata": {},
